@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/achmad-irfanda-062159186/)
 [![pub.dev](https://img.shields.io/badge/pub.dev-app_log_tracker-02569B?logo=dart)](https://pub.dev/packages/app_log_tracker)
+[![pub.dev](https://img.shields.io/badge/pub.dev-wa_number_checker-02569B?logo=dart)](https://pub.dev/packages/wa_number_checker)
 
 ---
 
@@ -38,16 +39,26 @@ or email: **achmadirfanda199@gmail.com**
 
 ---
 
-## Featured project
+## Featured projects
 
-### 📦 [app_log_tracker](https://github.com/Achmad-irfanda/app_log_tracker) — published on [pub.dev](https://pub.dev/packages/app_log_tracker)
+### 📦 [app_log_tracker](https://github.com/Achmad-irfanda/app_log_tracker) — on [pub.dev](https://pub.dev/packages/app_log_tracker)
 
 Event + API log tracker with **dedup** and **offline outbox** for Flutter.
 
 - Custom `track(keyEvent, id, status, data)` — same event skipped, different added
 - Auto API logging via Dio interceptor + `http` client wrapper
 - Offline-first outbox: `batch_id` idempotency key, FIFO cap, 4xx vs 5xx retry policy
-- `sqflite` persistence + in-app debug overlay (search, filter, detail)
+- `sqflite` persistence + in-app debug overlay (search, filter, detail, ID/EN)
+
+### 📱 [wa_number_checker](https://github.com/Achmad-irfanda/wa_number_checker) — on [pub.dev](https://pub.dev/packages/wa_number_checker)
+
+Check whether a phone number is registered on WhatsApp, on-device. Built for
+registration forms: warning-level answer, never a blocker.
+
+- Local lookup + insert-and-watch via contact sync (dedicated on-device account)
+- Optional open-WhatsApp flow with progress & result notifications
+- Uncertain states (`pending`, `offline`) stay neutral — user is never blocked
+- Honest scoping: Android-only, documented limitations, Play-policy friendly
 
 ---
 
