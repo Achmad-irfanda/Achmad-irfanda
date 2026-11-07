@@ -18,8 +18,8 @@
   <a href="mailto:achmadirfanda199@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://pub.dev/packages/app_log_tracker">
-    <img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Pub.dev" />
+  <a href="https://pub.dev/publishers/achmadirfanda.is-a.dev/packages">
+    <img src="https://img.shields.io/badge/pub.dev-achmadirfanda.is--a.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev publisher" />
   </a>
   <a href="https://x.com/irfaannnnnnnnn">
     <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
@@ -38,12 +38,12 @@ I am a **Mobile Developer Team Lead** based in Surabaya, Indonesia, specializing
 - 🚀 **Cross-Platform Engineering:** Extensive production expertise in **Flutter & Dart**, crafting fluid UI, robust state architectures, and offline-first mobile systems.
 - 🍏 **Native Mobile:** Deepening native **iOS (Swift / SwiftUI)** & **Android (Kotlin / Jetpack Compose)** capabilities, including native AAR SDK development and bridge integrations.
 - 🏗️ **Architecture & Reliability:** Passionate about Clean Architecture, reactive state management (BLoC, Redux, Riverpod), memory optimization, R8/Proguard minification, and resilient offline outbox mechanisms.
-- 📦 **Open Source Contributor:** Creator of published packages on **pub.dev** built to solve real-world logging, idempotency, and verification challenges.
+- 📦 **Open Source Contributor:** Verified publisher on [**pub.dev**](https://pub.dev/publishers/achmadirfanda.is-a.dev/packages) creating packages to solve real-world logging, idempotency, and verification challenges.
 - ⚙️ **Automation & DevOps:** Proficient in mobile CI/CD pipelines (Fastlane, GitHub Actions), headless web automation (Playwright), and fullstack headless architectures.
 
 ---
 
-### 📦 Featured Open Source Packages (pub.dev)
+### 📦 Featured Open Source Packages ([pub.dev](https://pub.dev/publishers/achmadirfanda.is-a.dev/packages))
 
 <table>
   <tr>
@@ -214,7 +214,7 @@ I'm always open to discussing mobile engineering challenges, fintech architectur
     <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://pub.dev/packages/app_log_tracker">
+  <a href="https://pub.dev/publishers/achmadirfanda.is-a.dev/packages">
     <img src="https://img.shields.io/badge/pub.dev-Explore%20Packages-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" />
   </a>
 </p>
