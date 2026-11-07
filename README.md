@@ -189,15 +189,45 @@ I am a **Mobile Developer Team Lead** based in Surabaya, Indonesia, specializing
 
 ---
 
+### 📌 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/Achmad-irfanda/app_log_tracker">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Achmad-irfanda&repo=app_log_tracker&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="app_log_tracker" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Achmad-irfanda/wa_number_checker">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Achmad-irfanda&repo=wa_number_checker&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="wa_number_checker" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Achmad-irfanda/instagram-automation-bot">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Achmad-irfanda&repo=instagram-automation-bot&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="instagram-automation-bot" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Achmad-irfanda/wa-inviatation-bot">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Achmad-irfanda&repo=wa-inviatation-bot&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="wa-inviatation-bot" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achmad-irfanda&theme=tokyonight" alt="Achmad Irfanda Contribution Profile" width="100%" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Achmad-irfanda&theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Achmad-irfanda&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Achmad's GitHub Stats" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Achmad-irfanda&theme=tokyonight" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Achmad-irfanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achmad-irfanda/Achmad-irfanda/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achmad-irfanda/Achmad-irfanda/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Achmad-irfanda/Achmad-irfanda/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
